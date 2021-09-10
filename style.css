@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+
+h2{
+    font-family: 'Allison', cursive;
+    font-size: 60px;
+}
+
+
+
 button{
     padding: 5px 18px;
     background-color: blue;
